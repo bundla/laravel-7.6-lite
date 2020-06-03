@@ -4,16 +4,17 @@ Bundle for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Key name:** `bundla/laravel-7.6-lite`
+**Bundle-key:** `bundla/laravel-7.6-lite`
 
 **Bundle includes:**
 * [Laravel 7.6](https://github.com/laravel/laravel)
 * [App PHP 7.2](https://github.com/bundla/m-app-php-7.2)
 * [Nginx latest](https://github.com/bundla/m-nginx-latest)
 
-#### Installation from Laravel DSK
+## Installation
+Install the Bundla console utility in accordance with the instructions on the site https://bundla.tech, create a new folder and write the command in it:
 ```
-make b=bundla/laravel-7.6-lite
+bundla i bundla/laravel-7.6-lite
 ````
 
 ## License
